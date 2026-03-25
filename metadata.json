@@ -1,0 +1,5 @@
+{
+  "name": "Pablo - Quentin's Voice Assistant",
+  "description": "A real-time voice assistant for Quentin Marty's portfolio, powered by Gemini Live API.",
+  "requestFramePermissions": ["microphone"]
+}
